@@ -1,0 +1,4 @@
+*.pem
+.idea
+aws-project
+secrets.tf
